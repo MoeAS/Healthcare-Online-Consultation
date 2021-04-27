@@ -64,4 +64,6 @@ Click on the link provided, it will direct you to the django application
 
 *Navigate through the web application and enjoy its features ツ* 
 
+*Done by Mohamad Abou Salem, Youssef Jaafar, Ali Wehber, Shaza El Fakih, Dina Younes, Zeina El Kojok*
+
 
