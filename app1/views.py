@@ -8,7 +8,7 @@ import string
 import re
 
 #############################################################################################
-cnx = connection.MySQLConnection(user='root', password='7aMoudi72571',  # need to specify password here
+cnx = connection.MySQLConnection(user='root', password='',  # need to specify password here
 								 host='localhost', database='online_consultation',
 								 auth_plugin='mysql_native_password')
 #############################################################################################
