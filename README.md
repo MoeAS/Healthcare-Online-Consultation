@@ -6,7 +6,13 @@
 Download MySQL workbench based on the following steps https://m.youtube.com/watch?v=sCcncJNLbaw 
 While installing you will be asked to provide a username and password for your MySQL local instance, make sure to remember them 
 Create a new database by copying the code in the query.txt file uploaded to your MySQL workbench 
-Execute the code in a SQL query 
+Execute the code in a SQL query
+
+Make sure to put he Database username and password of your SQL DB in: 
+
+shaza/settings.py lines 86 & 87  
+
+app1/views.py line 11
 
 ``` 
 **Step 2 - Django Environment Preparation (If you don't already have a django Virtual Environment)** 
